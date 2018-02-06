@@ -1,0 +1,52 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#8BC34A</item>
+        <item name="colorPrimaryDark">#689F38</item>
+        <item name="colorAccent">#4CAF50</item>
+        <item name="android:colorButtonNormal">#8BC34A</item>
+    </style>
+    <!-- This styles the main title. -->
+    <style name="title">
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">45sp</item>
+        <item name="android:textColor">#E8F5E9</item>
+        <item name="android:background">#8BC34A</item>
+        <item name="android:paddingBottom">20dp</item>
+        <item name="android:paddingTop">20dp</item>
+        <item name="android:fontFamily">@font/mclaren</item>
+        <item name="android:shadowRadius">5</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:elevation">15dp</item>
+    </style>
+    <!-- This styles the text. -->
+    <style name="text">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:fontFamily">@font/mclaren</item>
+
+    </style>
+    <!-- This styles the questions text. -->
+    <style name="questions">
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">@font/mclaren</item>
+    </style>
+    <!-- This styles the answer possibilities -->
+    <style name="radioButtons">
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">casual</item>
+    </style>
+    <!-- This styles the buttons -->
+    <style name="buttons">
+
+    </style>
+
+</resources>

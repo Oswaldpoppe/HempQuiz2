@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Hemp Quiz</string>
+    <string name="title">The Hemp Quiz</string>
+    <string name="name_input">Name</string>
+    <string name="enter_name">Please enter your name:</string>
+    <string name="start">Now lets get started!</string>
+    <string name="q1">1. How high can you get from industrial hemp?</string>
+    <string name="a1.1">Really high</string>
+    <string name="a1.2">A bit</string>
+    <string name="a1.3">You can\'t</string>
+    <string name="q2">2. One acre of hemp will produce ... fiber as 1 acre of cotton.</string>
+    <string name="a2.1">Less</string>
+    <string name="a2.2">As much</string>
+    <string name="a2.3">More</string>
+    <string name="q3">3. One acre of hemp will produce as much paper as … acre(s) of trees.</string>
+    <string name="a3.1">0,1</string>
+    <string name="a3.2">1</string>
+    <string name="a3.3">3</string>
+    <string name="q4">4. A crop of hemp can be harvested after … days.</string>
+    <string name="a4.1">120</string>
+    <string name="a4.2">180</string>
+    <string name="a4.3">365</string>
+    <string name="q5">5. Can you build a house out of hemp?</string>
+    <string name="a5.1">No</string>
+    <string name="a5.2">Yes</string>
+    <string name="a5.3">Yes, but I prefer candy!</string>
+    <string name="q6">6. Can hemp seeds be used as food?</string>
+    <string name="a6.1">No</string>
+    <string name="a6.2">Yes</string>
+    <string name="a6.3">Yes, but again, I prefer candy!</string>
+    <string name="submit_button">Submit</string>
+    <string name="reset_button">Reset</string>
+    <string name="learn">Want to know more?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No, I just want my score..</string>
+    <string name="extra_info">"1. Hemp grown for industrial use, has no drug properties because of its low THC content."
+                    + "\n\n2. Hemp fiber is stronger than cotton, lasts 2x as long and doesn’t get mildew"
+                    + "\n\n3. Hemp paper lasts hundreds of years without degrading. Can be recycled many more times than tree-based paper, and requires less toxic chemicals in the manufacturing process than paper made from trees does. Fun fact: the US constitution was written on hemp paper."
+                    + "\n\n4. Trees take years to grow and harvesting hemp rather than trees would also eliminate erosion due to logging, thereby reducing topsoil loss and water pollution caused by soil runoff."
+                    + "\n\n5. Hemp's useful for home building because walls made from hemp are rot-free, pest-free, mold-free and fire-resistant. Hemp plastics are also completely biodegradable."
+                    + "\n\n6. Hemp seeds contain high levels of vitamins A, B, D, and E, as well as vital minerals, proteins, and fatty acids. It has powerful antibacterial, anti-inflammatory, antioxidant, and antimicrobial properties. High levels of omega-3 and omega-6 fatty acids make hemp oil healthier than most vegetable oils on the market."</string>
+</resources>
